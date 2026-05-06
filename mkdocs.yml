@@ -1,0 +1,41 @@
+site_name: Guia de Apoio ao TCC
+site_description: Material de apoio para elaboração de Trabalhos de Conclusão de Curso
+site_author: IFPR - Campus Paranavaí
+
+repo_name: guia-tcc-ifpr-paranavai
+
+copyright: Material de apoio acadêmico - IFPR Campus Paranavaí
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Início: index.md
+  - Orientações Gerais:
+      - Apresentação do guia: orientacoes-gerais/apresentacao.md
+      - O que é um TCC: orientacoes-gerais/o-que-e-tcc.md
+      - Orientador e orientando: orientacoes-gerais/orientador-orientando.md
+      - Cronograma sugerido: orientacoes-gerais/cronograma.md
+      - Organização da rotina de trabalho: orientacoes-gerais/rotina.md
+      - Uso ético de fontes e ferramentas digitais: orientacoes-gerais/etica-fontes-ferramentas.md
+      - Escrita acadêmica: orientacoes-gerais/escrita-academica.md
+      - Construção de parágrafos: orientacoes-gerais/paragrafos.md
+      - Dicas de português: orientacoes-gerais/dicas-portugues.md
+      - Preparação para a defesa: orientacoes-gerais/defesa.md
