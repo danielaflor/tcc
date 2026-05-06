@@ -37,4 +37,4 @@ O estudante pode usar este guia de diferentes formas:
 - antes da defesa, para verificar se o trabalho está coerente e bem estruturado.
 
 !!! note "Importante"
-    O TCC não é responsabilidade exclusiva do orientador. O orientador acompanha, questiona, sugere e avalia caminhos. A autoria, a execução e a organização do trabalho são responsabilidades do estudante.
+    O TCC não é responsabilidade do orientador. O orientador acompanha, questiona, sugere e avalia caminhos. A autoria, a execução e a organização do trabalho são responsabilidades do estudante.
