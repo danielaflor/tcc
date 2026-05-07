@@ -4,7 +4,7 @@ A elaboração do TCC exige cuidado ético no uso de fontes, imagens, códigos, 
 
 ## Uso de fontes
 
-Sempre que uma ideia, conceito, dado, imagem, código, tabela ou trecho de texto vier de outra fonte, essa origem deve ser indicada.
+Toda ideia, conceito, dado, imagem, código, tabela ou trecho de texto retirado ou adaptado de outra fonte deve ter sua origem indicada, inclusive nos slides da apresentação.
 
 O uso correto de fontes evita plágio e fortalece o trabalho, pois demonstra que o estudante pesquisou, comparou informações e construiu sua argumentação com base em materiais confiáveis.
 
@@ -46,7 +46,7 @@ Ao utilizar ferramentas de IA, recomenda-se:
 - verificar referências em fontes confiáveis;
 - reescrever com autoria e compreensão;
 - não inserir dados falsos, referências inexistentes ou resultados não obtidos;
-- informar o orientador quando a ferramenta tiver sido usada de forma significativa.
+- informar o orientador quando a ferramenta tiver sido usada.
 
 !!! warning "Atenção"
     O uso de tecnologia não elimina a responsabilidade do estudante. Quem assina o TCC responde pelo conteúdo, pelos dados, pelas referências, pelo código e pelas conclusões apresentadas.
