@@ -99,4 +99,4 @@ A repetição excessiva de palavras pode empobrecer o texto. No entanto, nem tod
 Antes de trocar uma palavra por sinônimo, verifique se o novo termo mantém o mesmo sentido.
 
 !!! warning "Cuidado"
-    Trocar palavras importantes apenas para evitar repetição pode tornar o texto impreciso. Em trabalhos técnicos, clareza é mais importante do que variedade artificial.
+    Trocar palavras importantes apenas para evitar repetição pode tornar o texto impreciso. 
