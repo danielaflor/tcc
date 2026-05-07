@@ -4,21 +4,23 @@ O cronograma é uma ferramenta de organização do TCC. Ele permite visualizar a
 
 Este cronograma é genérico e pode ser adaptado a diferentes anos letivos. Em cada ano, as datas devem ser ajustadas conforme o calendário acadêmico, os prazos institucionais e as orientações do curso.
 
-## Cronograma-base para um TCC ao longo de 10 meses
+## Cronograma-base para um TCC ao longo de 11 meses
 
-| Período aproximado | Etapa | O que deve ser feito | Produto esperado |
-|---|---|---|---|
-| Mês 1 | Escolha e delimitação do tema | Escolher o tema, conversar com o orientador, verificar viabilidade e definir recorte inicial | Tema delimitado e justificativa inicial |
-| Mês 1 a 2 | Problema, escopo e objetivos | Formular o problema, definir objetivo geral, objetivos específicos, hipóteses ou expectativas e limitações | Plano inicial do TCC |
-| Mês 2 a 4 | Levantamento bibliográfico | Buscar livros, artigos, normas, manuais, trabalhos relacionados e referências técnicas | Lista inicial de referências e fichamentos |
-| Mês 3 a 4 | Escrita do projeto | Escrever introdução, justificativa, objetivos, revisão inicial, metodologia e cronograma | Projeto de TCC escrito |
-| Mês 4 | Validação do projeto | Apresentar o projeto ao orientador, professor responsável ou banca interna, quando houver | Projeto ajustado e aprovado para execução |
-| Mês 4 a 7 | Desenvolvimento, coleta ou implementação | Desenvolver sistema, protótipo, pesquisa, experimento, levantamento, estudo de caso ou revisão | Versão funcional, dados coletados ou corpus organizado |
-| Mês 6 a 8 | Testes, análise e registro dos resultados | Testar, observar, comparar, medir, registrar problemas e limitações | Resultados organizados em tabelas, figuras, gráficos ou relatos |
-| Mês 7 a 9 | Escrita do trabalho final | Redigir fundamentação, metodologia, resultados, discussões e considerações finais | Primeira versão completa do TCC |
-| Mês 9 | Revisão técnica e textual | Revisar coerência, citações, referências, formatação, figuras, tabelas e clareza textual | Versão revisada |
-| Mês 10 | Entrega e preparação para defesa | Entregar versão final, preparar slides, ensaiar apresentação e revisar possíveis perguntas | TCC entregue e apresentação preparada |
-| Mês 10 | Defesa e ajustes finais | Apresentar o trabalho, responder à banca e realizar correções solicitadas | Defesa realizada e versão final corrigida |
+## Proposta de cronograma para desenvolvimento do TCC
+
+| Período | Atividades previstas | Produto esperado |
+|---|---|---|
+| **Mês 1** | Escolha e delimitação do tema; definição inicial do problema de pesquisa, escopo, objetivos geral e específicos; alinhamento inicial com o(a) orientador(a). | Tema, problema, objetivos e escopo definidos. |
+| **Mês 2** | Levantamento bibliográfico inicial, com busca superficial de referências para apoiar a construção do plano de TCC e a compreensão geral do tema. | Plano de TCC iniciado e referências preliminares organizadas. |
+| **Mês 3** | Levantamento bibliográfico aprofundado, com fichamento das principais referências, organização das ideias e início da estruturação do texto em ferramentas como Overleaf e Mendeley/Zotero. | Fundamentação teórica em construção, com referências fichadas e organizadas. |
+| **Mês 4** | Estruturação dos capítulos iniciais e demais seções do trabalho, com foco na preparação da versão a ser apresentada na avaliação prévia. | Introdução, fundamentação teórica e metodologia em versão preliminar. |
+| **Mês 5** | Realização de implementações, simulações, experimentos ou testes iniciais para enriquecer a apresentação prévia; coleta e reflexão sobre as contribuições, críticas e sugestões recebidas na banca de avaliação prévia. | Versão para avaliação prévia finalizada e ajustes da banca registrados. |
+| **Mês 6** | Continuidade da implementação, simulação, desenvolvimento do sistema, protótipo ou coleta de dados, com maior rigor metodológico e registro sistemático das decisões tomadas. | Seção de metodologia atualizada e desenvolvimento inicial documentado. |
+| **Mês 7** | Refinamento das implementações e realização de testes primários por funcionalidade; registro contínuo dos achados, dificuldades, percepções e ajustes necessários. | Funcionalidades principais implementadas e prontas para testes. |
+| **Mês 8** | Novos refinamentos, ajustes técnicos e metodológicos, análise dos encaminhamentos finais do trabalho e organização dos registros que subsidiarão os resultados e discussões. | Testes primários realizados e registrados para análise. |
+| **Mês 9** | Realização de testes mais consolidados, organização dos dados obtidos, elaboração dos resultados, discussões, considerações finais e encaminhamentos para a versão final do trabalho. | Resultados e discussões redigidos; considerações finais iniciadas. |
+| **Mês 10** | Defesa do TCC, ajustes finais no texto, revisão da documentação, conferência do código-fonte/protótipo, revisão dos slides e verificação das entregas finais. | Texto final, documentação, código/protótipo e slides revisados para defesa. |
+| **Mês 11** | Preparação para reapresentação, quando necessário, com correção dos pontos solicitados pela banca na primeira defesa e nova organização da apresentação final. | Correções da banca realizadas e versão para reapresentação finalizada, se necessário. |
 
 ## Observações importantes
 
