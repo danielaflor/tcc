@@ -7,12 +7,14 @@ Organizar a rotina não significa trabalhar todos os dias durante muitas horas, 
 ## Recomendações para organizar a rotina
 
 - Reserve horários fixos semanais para o TCC.
-- Registre o que foi feito em cada semana.
-- Guarde links, referências, códigos, imagens e anotações em local organizado.
-- Não dependa apenas da memória para reconstruir decisões técnicas.
-- Envie versões parciais ao orientador, conforme combinado.
-- Evite escrever apenas na semana da entrega.
-- Revise o texto em dias diferentes.
+- Registre semanalmente avanços, decisões técnicas e próximos passos.
+- Organize referências, códigos, imagens, documentos e anotações.
+- Utilize pastas compartilhadas com o(a) orientador(a), quando combinado.
+- Use ferramentas de gestão de referências, como Mendeley ou Zotero.
+- Considere o uso do Overleaf com templates adequados para o texto final.
+- Utilize o GitHub ou outro sistema de versionamento para armazenar códigos, registrar alterações e documentar a evolução do projeto.
+- Envie versões parciais ao(à) orientador(a) conforme o cronograma.
+- Escreva e revise o texto regularmente.
 - Mantenha cópias de segurança dos arquivos.
 
 ## Diário de bordo
@@ -21,25 +23,8 @@ Uma estratégia útil é manter um diário de bordo simples, com registros seman
 
 | Data | O que foi feito | Dificuldades encontradas | Próximos passos |
 |---|---|---|---|
-|  |  |  |  |
 
 Esse registro ajuda na escrita da metodologia, na apresentação dos resultados e na explicação das limitações do trabalho.
-
-## Organização dos arquivos
-
-Sugestão de organização de pastas:
-
-```text
-TCC/
-├── 01-referencias/
-├── 02-fichamentos/
-├── 03-texto/
-├── 04-codigos/
-├── 05-imagens-figuras/
-├── 06-testes-resultados/
-├── 07-apresentacao/
-└── 08-versao-final/
-```
 
 ## Entregas parciais
 
