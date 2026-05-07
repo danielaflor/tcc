@@ -2,20 +2,21 @@
 
 Este guia tem como objetivo apoiar estudantes na elaboração do Trabalho de Conclusão de Curso, oferecendo orientações práticas para a organização, escrita, revisão e defesa do trabalho.
 
-O material não substitui o acompanhamento do orientador, mas serve como apoio para que o estudante compreenda a função de cada etapa do TCC e consiga avaliar se seu trabalho apresenta clareza, coerência, fundamentação e relação direta com o problema investigado.
+O material serve como apoio para que o estudante compreenda a função de cada etapa do TCC e consiga avaliar se seu trabalho apresenta clareza, coerência, fundamentação e relação direta com o problema investigado.
 
-Mais do que preencher capítulos, elaborar um TCC exige compreender:
+Elaborar um TCC exige compreender:
 
 - o que está sendo pesquisado ou desenvolvido;
 - por que esse tema é relevante;
 - qual problema será enfrentado;
 - quais caminhos metodológicos serão utilizados;
 - quais resultados podem ser analisados;
+- quais conclusões podem ser tiradas a partir deles;
 - quais limites precisam ser reconhecidos.
 
 ## Para quem este guia foi pensado?
 
-Este guia foi pensado para estudantes que estão desenvolvendo TCC em cursos técnicos integrados e em cursos superiores da área de tecnologia, especialmente em trabalhos relacionados a:
+Este guia foi pensado para estudantes que estão desenvolvendo TCC em cursos técnicos integrados e em cursos superiores da área de tecnologia e engenharias, especialmente em trabalhos relacionados a:
 
 - desenvolvimento de software;
 - sistemas embarcados;
