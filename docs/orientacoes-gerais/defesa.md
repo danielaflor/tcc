@@ -28,16 +28,16 @@ A apresentação deve contemplar, de forma objetiva:
 | 2 | Contexto do tema |
 | 3 | Problema e justificativa |
 | 4 | Objetivo geral e objetivos específicos |
-| 5 | Referenciais ou conceitos principais |
-| 6 | Metodologia e etapas do trabalho |
-| 7 | Desenvolvimento, sistema, protótipo ou procedimento realizado |
+| 5 | Referências ou conceitos principais |
+| 6 | Materiais e métodos (etapas) do trabalho |
+| 7 | Apresentação do produto (utilize links se necessário) |
 | 8 | Testes, simulações, coleta ou validação |
 | 9 | Resultados obtidos |
-| 10 | Discussão dos resultados e limitações |
+| 10 | Discussão dos resultados e articulação com os objetivos |
 | 11 | Considerações finais e trabalhos futuros |
 | 12 | Agradecimentos e abertura para perguntas |
 
-A quantidade de slides pode variar conforme o tempo disponível e as orientações do curso.
+A quantidade de slides pode variar conforme o tempo disponível e as orientações de cada curso.
 
 ## Como se preparar
 
@@ -48,21 +48,24 @@ A quantidade de slides pode variar conforme o tempo disponível e as orientaçõ
 - Cronometre o tempo.
 - Prepare-se para explicar limitações e dificuldades.
 - Evite slides com excesso de texto.
-- Use imagens, diagramas, tabelas e prints apenas quando ajudarem a explicar o trabalho.
+- Revise os slides para identificar erros de escrita, inconsistências, problemas de formatação e falta de padronização visual.
+- Use imagens, diagramas, tabelas e prints para ajudarem a explicar o trabalho.
+- Apresente apenas slides previamente revisados e aprovados pelo orientador.
 
 ## Perguntas que a banca pode fazer
 
-A banca pode perguntar:
+Esteja pronto para explicar:
 
 - Por que esse tema foi escolhido?
 - Qual é exatamente o problema do trabalho?
 - Como os objetivos específicos foram alcançados?
-- Por que essa metodologia foi escolhida?
+- Por que essas ferramentas foram escolhidas?
 - Quais foram as principais dificuldades?
 - O que funcionou e o que não funcionou?
 - Como os resultados foram avaliados?
 - Quais são as limitações do trabalho?
 - O que poderia ser feito em uma continuidade?
+- Código-fonte, funcionamento detalhado do sistema ou protótipo, testar suas principais funcionalidades e defender as decisões técnicas adotadas durante o desenvolvimento.
 
 ## Postura durante a defesa
 
