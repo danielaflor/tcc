@@ -22,7 +22,7 @@ Este cronograma é genérico e pode ser adaptado a diferentes anos letivos. Em c
 
 ## Observações importantes
 
-Esse cronograma representa uma média razoável. Trabalhos com desenvolvimento de sistema, protótipo físico, testes com usuários, coleta de dados, simulação computacional ou dependência de laboratório podem exigir mais tempo nas etapas de implementação e validação.
+Este cronograma sugere uma referência máxima aproximada para a organização do trabalho, com o objetivo de evitar atrasos no desenvolvimento do TCC. Trabalhos com desenvolvimento de software, protótipo físico, testes com usuários, coleta de dados, simulação computacional ou dependência de equipamentos e laboratórios podem exigir maior atenção ao planejamento, especialmente nas etapas de implementação e validação, que devem ser iniciadas com antecedência para não comprometer os prazos finais.
 
 Atrasar a escolha do tema ou a revisão bibliográfica costuma comprometer todo o restante do TCC. Sem problema claro, objetivos definidos e referências iniciais, o desenvolvimento tende a ficar confuso.
 
@@ -37,6 +37,7 @@ Algumas etapas podem ser desenvolvidas em paralelo. Por exemplo:
 - escrita inicial da fundamentação e escolha de tecnologias;
 - desenvolvimento do protótipo e registro das decisões técnicas;
 - testes e escrita da metodologia;
-- organização dos resultados e revisão da fundamentação.
+- organização dos resultados e revisão da fundamentação;
+- elaboração da conclusão e validação com os objetivos propostos.
 
 O estudante deve evitar a ideia de que só poderá escrever depois que tudo estiver pronto. Registrar o processo desde o início facilita a escrita final.
