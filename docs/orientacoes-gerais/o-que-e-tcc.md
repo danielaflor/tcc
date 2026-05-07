@@ -2,7 +2,7 @@
 
 O Trabalho de Conclusão de Curso é uma atividade acadêmica que permite ao estudante integrar conhecimentos construídos ao longo da formação, investigar um problema, desenvolver uma solução, analisar uma realidade ou demonstrar a aplicação de conceitos, métodos e tecnologias.
 
-Em cursos da área de tecnologia, o TCC pode assumir diferentes formatos. Pode envolver o desenvolvimento de um sistema, a criação de um protótipo, a análise de uma ferramenta, a realização de uma simulação, a construção de uma prova de conceito, uma pesquisa bibliográfica ou um estudo aplicado.
+Em cursos da área de tecnologia e engenharias, o TCC pode assumir diferentes formatos. Pode envolver o desenvolvimento de um sistema, a criação de um protótipo, a análise de uma ferramenta, a realização de uma simulação, a construção de uma prova de conceito, uma pesquisa bibliográfica ou um estudo aplicado.
 
 Independentemente do formato, o TCC precisa apresentar uma lógica clara:
 
