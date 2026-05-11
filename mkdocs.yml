@@ -13,32 +13,35 @@ theme:
     - search.highlight
     - content.code.copy
 
+markdown_extensions:
+  - admonition
+
 extra_css:
   - stylesheets/extra.css
 
 nav:
   - Início: index.md
 
-- Orientações Gerais:
-    - Visão inicial:
-        - Apresentação do guia: orientacoes-gerais/apresentacao.md
-        - O que é um TCC: orientacoes-gerais/o-que-e-tcc.md
+  - Orientações Gerais:
+      - Visão inicial:
+          - Apresentação do guia: orientacoes-gerais/apresentacao.md
+          - O que é um TCC: orientacoes-gerais/o-que-e-tcc.md
 
-    - Relação de orientação:
-        - Orientador e orientando: orientacoes-gerais/orientador-orientando.md
+      - Relação de orientação:
+          - Orientador e orientando: orientacoes-gerais/orientador-orientando.md
 
-    - Planejamento do trabalho:
-        - Cronograma sugerido: orientacoes-gerais/cronograma.md
-        - Organização da rotina de trabalho: orientacoes-gerais/rotina.md
+      - Planejamento do trabalho:
+          - Cronograma sugerido: orientacoes-gerais/cronograma.md
+          - Organização da rotina de trabalho: orientacoes-gerais/rotina.md
 
-    - Ética e escrita acadêmica:
-        - Uso ético de fontes e ferramentas digitais: orientacoes-gerais/etica-fontes-ferramentas.md
-        - Escrita acadêmica: orientacoes-gerais/escrita-academica.md
-        - Construção de parágrafos: orientacoes-gerais/paragrafos.md
-        - Dicas de português: orientacoes-gerais/dicas-portugues.md
+      - Ética e escrita acadêmica:
+          - Uso ético de fontes e ferramentas digitais: orientacoes-gerais/etica-fontes-ferramentas.md
+          - Escrita acadêmica: orientacoes-gerais/escrita-academica.md
+          - Construção de parágrafos: orientacoes-gerais/paragrafos.md
+          - Dicas de português: orientacoes-gerais/dicas-portugues.md
 
-    - Finalização:
-        - Preparação para a defesa: orientacoes-gerais/defesa.md
+      - Finalização:
+          - Preparação para a defesa: orientacoes-gerais/defesa.md
 
   - Seções de um TCC:
       - Visão geral: secoes-tcc/visao-geral.md
@@ -51,6 +54,7 @@ nav:
       - Desenvolvimento:
           - Fundamentação Teórica: secoes-tcc/fundamentacao-teorica.md
           - Metodologia ou Materiais e métodos: secoes-tcc/metodologia.md
+          - Tipos de pesquisa: secoes-tcc/tipos-de-pesquisa.md
           - Resultados e discussões: secoes-tcc/resultados-discussoes.md
 
       - Fechamento:
