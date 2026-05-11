@@ -34,5 +34,4 @@ Espera-se que o TCC apresente:
 - escrita acadêmica objetiva;
 - uso ético de fontes, imagens, códigos, dados e ferramentas.
 
-!!! tip "Pergunta central"
-    Ao longo de todo o trabalho, o estudante deve ser capaz de responder: qual problema meu TCC enfrenta e como as etapas desenvolvidas ajudam a responder a esse problema?
+> **Atenção:** Ao longo de todo o trabalho, o estudante deve ser capaz de responder: qual problema meu TCC enfrenta e como as etapas desenvolvidas ajudam a responder a esse problema?
