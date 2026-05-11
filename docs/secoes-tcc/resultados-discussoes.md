@@ -1,6 +1,6 @@
 # Resultados e discussões
 
-A seção de Resultados e Discussões apresenta o que foi obtido após a aplicação da metodologia e interpreta o significado desses achados.
+A seção de Resultados e Discussões apresenta o que foi obtido após a articulação dos materiais e métodos (ou metodologia) e interpreta o significado desses achados.
 
 Essa é uma das partes mais importantes do TCC, porque mostra ao leitor o que o trabalho efetivamente produziu, descobriu, testou, desenvolveu, comparou ou analisou.
 
@@ -27,9 +27,9 @@ Não basta afirmar que o sistema funcionou, que o protótipo foi desenvolvido ou
 
 ## Diferença entre resultado e discussão
 
-Os resultados apresentam o que foi encontrado.
+**Os resultados apresentam o que foi encontrado.**
 
-A discussão explica o que esses resultados significam.
+**A discussão explica o que esses resultados significam.**
 
 Exemplo de resultado:
 
@@ -41,11 +41,9 @@ Exemplo de discussão:
 
 No primeiro trecho, o estudante apresentou o que aconteceu. No segundo, interpretou o alcance e os limites do resultado.
 
-## Relação com a metodologia
+## Relação com materiais e métodos ou metodologia
 
-Os resultados devem nascer da metodologia.
-
-Isso significa que tudo o que for apresentado como resultado precisa estar relacionado a alguma etapa metodológica descrita anteriormente.
+Os resultados devem nascer da metodologia. Isso significa que tudo o que for apresentado como resultado precisa estar relacionado a alguma etapa metodológica descrita anteriormente.
 
 Se a metodologia informou que seriam realizados testes funcionais, os resultados devem mostrar esses testes.
 
@@ -93,7 +91,7 @@ Podem aparecer:
 
 - fotos do protótipo;
 - diagramas de ligação;
-- tabela de componentes utilizados;
+- tabela de componentes utilizados com os valores praticados na época da aquisição;
 - registros de leitura de sensores;
 - acionamento de atuadores;
 - testes de comunicação;
@@ -132,7 +130,7 @@ Podem aparecer:
 
 Figuras, tabelas, quadros e gráficos não devem aparecer soltos no texto.
 
-Antes de apresentar o elemento visual, o estudante deve contextualizar o que será mostrado.
+Antes de apresentar o elemento visual, o estudante deve contextualizar o que será mostrado no parágrafo anterior.
 
 Depois, deve explicar o que o leitor deve observar.
 
@@ -171,9 +169,7 @@ Resultados positivos mostram o que funcionou, o que foi alcançado e o que confi
 
 Resultados negativos ou parciais mostram o que não funcionou, o que funcionou apenas parcialmente ou o que precisou ser adaptado.
 
-Esses resultados também são importantes.
-
-Um protótipo que não funcionou plenamente pode revelar limitações de componentes, dificuldades de integração, problemas de comunicação, falhas de alimentação, restrições de tempo ou necessidade de novos testes.
+Esses resultados também são importantes e precisam ser apresentados no TCC. Um protótipo que não funcionou plenamente pode revelar limitações de componentes, dificuldades de integração, problemas de comunicação, falhas de alimentação, restrições de tempo ou necessidade de novos testes.
 
 Um software incompleto pode mostrar que o escopo inicial era amplo demais, que determinados requisitos precisaram ser priorizados ou que algumas funcionalidades dependem de etapas futuras.
 
