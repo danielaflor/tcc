@@ -27,7 +27,7 @@ Exemplo:
 
 > Esta pesquisa caracteriza-se como aplicada, pois busca desenvolver uma solução voltada a um problema específico. Quanto à abordagem, classifica-se como qualitativa, uma vez que a análise se concentra na verificação do funcionamento do protótipo e na interpretação dos resultados obtidos durante os testes. Quanto aos objetivos, trata-se de uma pesquisa exploratória e descritiva, pois envolve o estudo de tecnologias, a construção de uma prova de conceito e a descrição do seu funcionamento. Quanto aos procedimentos técnicos, caracteriza-se como pesquisa bibliográfica e experimental, com desenvolvimento de protótipo e realização de testes em ambiente controlado.
 
-**Para compreender melhor essas classificações, consulte a página [Tipos de pesquisa](tipos-de-pesquisa.md)**
+**Para compreender melhor essas classificações, consulte a página [Tipos de pesquisa](tipos-de-pesquisa.md)**.
 
 ### Materiais, ferramentas e tecnologias utilizadas
 
