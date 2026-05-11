@@ -74,15 +74,15 @@ Uma forma possível de organizar as considerações finais é:
 6. Reconhecer limitações e dificuldades.
 7. Indicar possibilidades de continuidade ou trabalhos futuros.
 
-## Exemplo de encaminhamento
+## Exemplos de encaminhamento
 
-> Este trabalho teve como objetivo desenvolver uma prova de conceito para [tema/proposta], considerando o problema de [problema]. A partir das etapas realizadas, foi possível observar que [principal achado], o que indica [interpretação do resultado].
+> *Este trabalho teve como objetivo desenvolver uma prova de conceito para [tema/proposta], considerando o problema de [problema]. A partir das etapas realizadas, foi possível observar que [principal achado], o que indica [interpretação do resultado].*
 
-> Os resultados obtidos demonstraram que [resultado principal]. Esse achado é relevante porque [implicação], especialmente no contexto de [contexto]. Além disso, verificou-se que [outro resultado], evidenciando [reflexão dos autores].
+> *Os resultados obtidos demonstraram que [resultado principal]. Esse achado é relevante porque [implicação], especialmente no contexto de [contexto]. Além disso, verificou-se que [outro resultado], evidenciando [reflexão dos autores].*
 
-> Apesar dos resultados alcançados, algumas limitações precisam ser consideradas. O trabalho limitou-se a [limitação], o que restringiu [impacto da limitação]. Ainda assim, os testes realizados permitiram [contribuição possível dentro do escopo].
+> *Apesar dos resultados alcançados, algumas limitações precisam ser consideradas. O trabalho limitou-se a [limitação], o que restringiu [impacto da limitação]. Ainda assim, os testes realizados permitiram [contribuição possível dentro do escopo].*
 
-> Como continuidade, sugere-se [trabalho futuro], a fim de [finalidade]. Também seria relevante [outra possibilidade], especialmente para ampliar [aspecto a ser aprofundado].
+> *Como continuidade, sugere-se [trabalho futuro], a fim de [finalidade]. Também seria relevante [outra possibilidade], especialmente para ampliar [aspecto a ser aprofundado].*
 
 ## Frases úteis
 
@@ -116,17 +116,17 @@ Por isso, não basta repetir o que foi feito. É necessário explicar o que os r
 
 Evite encerrar o TCC com frases genéricas, como:
 
-> Conclui-se que o trabalho foi importante.
+> *Conclui-se que o trabalho foi importante.*
 
-> O sistema funcionou corretamente.
+> *O sistema funcionou corretamente.*
 
-> Os objetivos foram alcançados.
+> *Os objetivos foram alcançados.*
 
 Essas frases só fazem sentido se forem acompanhadas de explicação.
 
 Prefira construções mais analíticas:
 
-> Os testes realizados indicaram que o protótipo foi capaz de executar as funções previstas em ambiente controlado. Esse resultado demonstra a viabilidade inicial da proposta, embora ainda sejam necessários testes em cenários reais para avaliar estabilidade, escalabilidade e resistência a variações externas.
+> *Os testes realizados indicaram que o protótipo foi capaz de executar as funções previstas em ambiente controlado. Esse resultado demonstra a viabilidade inicial da proposta, embora ainda sejam necessários testes em cenários reais para avaliar estabilidade, escalabilidade e resistência a variações externas.*
 
 ## Erros comuns
 
