@@ -14,7 +14,7 @@ O presente pode ser mantido quando o texto tratar de conceitos gerais, problemas
 
 Exemplo:
 
-> O monitoramento de temperatura e umidade é uma necessidade recorrente em ambientes de armazenamento. Diante desse contexto, este trabalho desenvolveu uma prova de conceito baseada em sistema embarcado para monitoramento dessas variáveis. Para isso, foram definidos objetivos específicos relacionados ao levantamento bibliográfico, à seleção de componentes, à implementação do protótipo e à realização de testes funcionais.
+> *O monitoramento de temperatura e umidade é uma necessidade recorrente em ambientes de armazenamento. Diante desse contexto, este trabalho desenvolveu uma prova de conceito baseada em sistema embarcado para monitoramento dessas variáveis. Para isso, foram definidos objetivos específicos relacionados ao levantamento bibliográfico, à seleção de componentes, à implementação do protótipo e à realização de testes funcionais.*
 
 Nesse exemplo, a primeira frase está no presente porque apresenta uma afirmação geral sobre o tema. As frases seguintes estão no passado porque indicam o que foi realizado no TCC.
 
@@ -72,11 +72,11 @@ Como a contextualização apresenta conceitos gerais e problemas que muitas veze
 
 Em vez de iniciar dizendo:
 
-> O ESP32 é uma placa de baixo custo com conexão Wi-Fi e Bluetooth.
+> *O ESP32 é uma placa de baixo custo com conexão Wi-Fi e Bluetooth.*
 
 Pode ser mais adequado iniciar dizendo:
 
-> O monitoramento de temperatura e umidade é uma necessidade recorrente em ambientes que armazenam produtos sensíveis a variações climáticas. Em determinados contextos, a ausência de acompanhamento contínuo pode comprometer a conservação dos materiais armazenados e dificultar a tomada de decisão pelos responsáveis.
+> *O monitoramento de temperatura e umidade é uma necessidade recorrente em ambientes que armazenam produtos sensíveis a variações climáticas. Em determinados contextos, a ausência de acompanhamento contínuo pode comprometer a conservação dos materiais armazenados e dificultar a tomada de decisão pelos responsáveis.*
 
 Depois dessa contextualização, o estudante pode apresentar a tecnologia escolhida como parte da proposta desenvolvida no trabalho.
 
@@ -97,11 +97,11 @@ O problema pode aparecer em forma de pergunta ou ser apresentado em forma de tex
 
 ### Exemplos de perguntas de pesquisa
 
-> Como desenvolver uma solução de baixo custo para monitoramento de temperatura e umidade em ambientes de armazenamento?
+> *Como desenvolver uma solução de baixo custo para monitoramento de temperatura e umidade em ambientes de armazenamento?*
 
-> De que forma um sistema web pode contribuir para a organização de reservas em um ambiente escolar?
+> *De que forma um sistema web pode contribuir para a organização de reservas em um ambiente escolar?*
 
-> Como uma prova de conceito baseada em simulação pode auxiliar na análise do comportamento de determinado sistema?
+> *Como uma prova de conceito baseada em simulação pode auxiliar na análise do comportamento de determinado sistema?*
 
 Mesmo que o problema apareça em forma de pergunta, o texto ao redor dele deve deixar claro por que essa questão foi relevante para o trabalho.
 
@@ -135,7 +135,7 @@ A justificativa deve estar ligada ao problema e aos objetivos. Se o problema tra
 
 ### Exemplo de encaminhamento
 
-> A realização deste trabalho justificou-se pela necessidade de [necessidade/problema], especialmente no contexto de [contexto]. Ao desenvolver [proposta], buscou-se contribuir para [contribuição esperada], considerando [aspecto técnico, social, educacional ou institucional].
+> *A realização deste trabalho justificou-se pela necessidade de [necessidade/problema], especialmente no contexto de [contexto]. Ao desenvolver [proposta], buscou-se contribuir para [contribuição esperada], considerando [aspecto técnico, social, educacional ou institucional].*
 
 ## Proposta do trabalho
 
@@ -158,7 +158,7 @@ A proposta pode ter envolvido, por exemplo:
 
 ### Exemplo
 
-> Diante desse cenário, este trabalho desenvolveu uma prova de conceito baseada em sistema embarcado para monitoramento de temperatura e umidade, utilizando sensores de baixo custo e comunicação sem fio.
+> *Diante desse cenário, este trabalho desenvolveu uma prova de conceito baseada em sistema embarcado para monitoramento de temperatura e umidade, utilizando sensores de baixo custo e comunicação sem fio.*
 
 ## Objetivo geral
 
@@ -168,7 +168,7 @@ No TCC final, o objetivo pode ser apresentado com uma estrutura no passado, pois
 
 ### Exemplo
 
-> Este trabalho teve como objetivo geral desenvolver um protótipo de sistema embarcado para monitoramento de temperatura e umidade em ambientes de armazenamento.
+> *Este trabalho teve como objetivo geral desenvolver um protótipo de sistema embarcado para monitoramento de temperatura e umidade em ambientes de armazenamento.*
 
 Esse objetivo indica uma ação principal, um tipo de produto e um contexto de aplicação.
 
@@ -234,11 +234,11 @@ Isso ajuda a evitar expectativas irreais e demonstra maturidade na definição d
 
 ### Exemplos
 
-> Este trabalho limitou-se ao desenvolvimento de uma prova de conceito em ambiente controlado, não contemplando testes em escala industrial.
+> *Este trabalho limitou-se ao desenvolvimento de uma prova de conceito em ambiente controlado, não contemplando testes em escala industrial.*
 
-> A proposta não teve como objetivo substituir sistemas comerciais de monitoramento, mas demonstrar a viabilidade inicial de uma solução de baixo custo.
+> *A proposta não teve como objetivo substituir sistemas comerciais de monitoramento, mas demonstrar a viabilidade inicial de uma solução de baixo custo.*
 
-> A pesquisa não contemplou testes com usuários finais, concentrando-se na validação funcional do protótipo.
+> *A pesquisa não contemplou testes com usuários finais, concentrando-se na validação funcional do protótipo.*
 
 ## Perguntas de verificação
 
