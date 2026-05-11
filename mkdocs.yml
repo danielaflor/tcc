@@ -22,7 +22,7 @@ extra_css:
 nav:
   - Início: index.md
 
-  - Orientações Gerais:
+  - ORIENTAÇÕES GERAIS:
       - Visão inicial:
           - Apresentação do guia: orientacoes-gerais/apresentacao.md
           - O que é um TCC: orientacoes-gerais/o-que-e-tcc.md
@@ -43,7 +43,7 @@ nav:
       - Finalização:
           - Preparação para a defesa: orientacoes-gerais/defesa.md
 
-  - Seções de um TCC:
+  - SEÇÕES DE UM TCC:
       - Visão geral: secoes-tcc/visao-geral.md
 
       - Elementos iniciais:
