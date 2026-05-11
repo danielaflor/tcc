@@ -98,8 +98,7 @@ A repetição excessiva de palavras pode empobrecer o texto. No entanto, nem tod
 
 Antes de trocar uma palavra por sinônimo, verifique se o novo termo mantém o mesmo sentido.
 
-!!! warning "Cuidado"
-    Trocar palavras importantes apenas para evitar repetição pode tornar o texto impreciso. 
+> **Atenção:** Trocar palavras importantes apenas para evitar repetição pode tornar o texto impreciso. 
 
 # Construção de parágrafos
 
@@ -154,6 +153,5 @@ Evite:
 - repetição da mesma ideia em vários parágrafos;
 - parágrafos que começam sem relação com o anterior.
 
-!!! tip "Checklist do parágrafo"
-    Para revisar um parágrafo, pergunte: qual é a ideia principal deste bloco? Todas as frases ajudam a desenvolver essa ideia?
+> **Atenção:** Para revisar um parágrafo, pergunte: qual é a ideia principal deste bloco? Todas as frases ajudam a desenvolver essa ideia?
 
