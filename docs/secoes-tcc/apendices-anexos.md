@@ -4,9 +4,7 @@ Apêndices e anexos são elementos pós-textuais. Eles complementam o trabalho, 
 
 ## Apêndices
 
-Apêndices são materiais produzidos pelos próprios autores do TCC.
-
-Exemplos:
+Apêndices são materiais produzidos pelos próprios autores do TCC. Exemplos:
 
 - questionários elaborados pelos estudantes;
 - roteiros de entrevista;
@@ -18,9 +16,7 @@ Exemplos:
 
 ## Anexos
 
-Anexos são materiais de terceiros, usados como complemento.
-
-Exemplos:
+Anexos são materiais de terceiros, usados como complemento. Exemplos:
 
 - normas;
 - documentos institucionais;
@@ -38,9 +34,7 @@ Exemplos:
 
 ## Como mencionar no texto
 
-Sempre que um apêndice ou anexo for importante para a compreensão do trabalho, ele deve ser mencionado no corpo do texto.
-
-Exemplo:
+Sempre que um apêndice ou anexo for importante para a compreensão do trabalho, ele deve ser mencionado no corpo do texto. Exemplos:
 
 > O roteiro utilizado para a entrevista encontra-se no Apêndice A.
 
