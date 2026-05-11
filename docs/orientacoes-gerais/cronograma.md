@@ -28,8 +28,7 @@ Este cronograma sugere uma referência máxima aproximada para a organização d
 
 Atrasar a escolha do tema ou a revisão bibliográfica costuma comprometer todo o restante do TCC. Sem problema claro, objetivos definidos e referências iniciais, o desenvolvimento tende a ficar confuso.
 
-!!! warning "Atenção"
-    O TCC não começa na escrita final. A escrita final é consequência de leitura, planejamento, desenvolvimento, testes, registros e revisões.
+> **Atenção:** O TCC não começa na escrita final. A escrita final é consequência de leitura, planejamento, desenvolvimento, testes, registros e revisões.
 
 ## Etapas que podem ocorrer ao mesmo tempo
 
