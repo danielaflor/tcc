@@ -30,5 +30,4 @@ Esse registro ajuda na escrita da metodologia, na apresentação dos resultados 
 
 O estudante deve tratar cada entrega parcial como parte real do TCC. Mesmo que o texto ainda seja revisado depois, é importante que cada versão enviada tenha organização mínima, citações provisórias quando necessário e indicação clara do que ainda está em desenvolvimento.
 
-!!! tip "Boa prática"
-    Antes de enviar qualquer arquivo ao orientador, leia o texto novamente e marque as dúvidas principais. Isso torna a orientação mais objetiva e produtiva.
+> **Atenção:** Antes de enviar qualquer arquivo ao orientador, leia o texto novamente e marque as dúvidas principais. Isso torna a orientação mais objetiva e produtiva.
