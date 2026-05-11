@@ -16,9 +16,9 @@ Reúne informações sobre o processo de desenvolvimento do TCC, incluindo respo
 
 Apresentará a função de cada parte do trabalho, explicando o que deve aparecer no título, resumo, introdução, objetivos, fundamentação teórica, metodologia, resultados, considerações finais, referências, apêndices e anexos.
 
-### Modelos e Roteiros
+<!--### Modelos e Roteiros-->
 
-Disponibilizará fichas, checklists e roteiros para diferentes tipos de TCC, como desenvolvimento de software, pesquisa com prova de conceito envolvendo protótipos embarcados/IoT e pesquisa com prova de conceito envolvendo simulação ou computação aplicada.
+<!--Disponibilizará fichas, checklists e roteiros para diferentes tipos de TCC, como desenvolvimento de software, pesquisa com prova de conceito envolvendo protótipos embarcados/IoT e pesquisa com prova de conceito envolvendo simulação ou computação aplicada.-->
 
 ## Por onde começar?
 
