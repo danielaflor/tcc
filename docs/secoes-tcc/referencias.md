@@ -116,7 +116,7 @@ Uma boa prática é manter, para cada fonte lida, um pequeno registro com:
 
 Esse cuidado ajuda o estudante a escrever uma fundamentação mais articulada, em vez de apenas acumular definições soltas.
 
-O roteiro de correção usado como referência também chama atenção para a relação entre fundamentação teórica e referências, questionando se os trabalhos correlatos foram listados nas referências, se as citações são recentes, se os veículos de publicação possuem impacto relevante e se todas as referências foram efetivamente usadas. :contentReference[oaicite:1]{index=1}
+O roteiro de correção usado como referência também chama atenção para a relação entre fundamentação teórica e referências, questionando se os trabalhos correlatos foram listados nas referências, se as citações são recentes, se os veículos de publicação possuem impacto relevante e se todas as referências foram efetivamente usadas.
 
 ## Qualidade das fontes
 
