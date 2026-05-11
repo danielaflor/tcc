@@ -48,5 +48,4 @@ Ao utilizar ferramentas de IA, recomenda-se:
 - não inserir dados falsos, referências inexistentes ou resultados não obtidos;
 - informar o orientador quando a ferramenta tiver sido usada.
 
-!!! warning "Atenção"
-    O uso de tecnologia não elimina a responsabilidade do estudante. Quem assina o TCC responde pelo conteúdo, pelos dados, pelas referências, pelo código e pelas conclusões apresentadas.
+> **Atenção:** O uso de tecnologia não elimina a responsabilidade do estudante. Quem assina o TCC responde pelo conteúdo, pelos dados, pelas referências, pelo código e pelas conclusões apresentadas.
