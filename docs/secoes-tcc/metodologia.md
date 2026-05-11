@@ -25,7 +25,7 @@ A pesquisa pode ser classificada, por exemplo:
 
 Exemplo:
 
-> Esta pesquisa caracteriza-se como aplicada, pois busca desenvolver uma solução voltada a um problema específico. Quanto à abordagem, classifica-se como qualitativa, uma vez que a análise se concentra na verificação do funcionamento do protótipo e na interpretação dos resultados obtidos durante os testes. Quanto aos objetivos, trata-se de uma pesquisa exploratória e descritiva, pois envolve o estudo de tecnologias, a construção de uma prova de conceito e a descrição do seu funcionamento. Quanto aos procedimentos técnicos, caracteriza-se como pesquisa bibliográfica e experimental, com desenvolvimento de protótipo e realização de testes em ambiente controlado.
+> *Esta pesquisa caracteriza-se como aplicada, pois busca desenvolver uma solução voltada a um problema específico. Quanto à abordagem, classifica-se como qualitativa, uma vez que a análise se concentra na verificação do funcionamento do protótipo e na interpretação dos resultados obtidos durante os testes. Quanto aos objetivos, trata-se de uma pesquisa exploratória e descritiva, pois envolve o estudo de tecnologias, a construção de uma prova de conceito e a descrição do seu funcionamento. Quanto aos procedimentos técnicos, caracteriza-se como pesquisa bibliográfica e experimental, com desenvolvimento de protótipo e realização de testes em ambiente controlado.*
 
 **Para compreender melhor essas classificações, consulte a página [Tipos de pesquisa](tipos-de-pesquisa.md)**.
 
@@ -37,7 +37,7 @@ Não basta listar os materiais. É necessário explicar para que cada um foi uti
 
 Exemplo:
 
-> Para o desenvolvimento do protótipo, foi utilizada a placa ESP32, responsável pela leitura dos sensores e pelo envio dos dados. O sensor DHT22 foi empregado para aferição de temperatura e umidade. A plataforma Arduino IDE foi utilizada para a programação inicial do microcontrolador, enquanto o protocolo Wi-Fi permitiu a comunicação entre o dispositivo e a interface de monitoramento.
+> *Para o desenvolvimento do protótipo, foi utilizada a placa ESP32, responsável pela leitura dos sensores e pelo envio dos dados. O sensor DHT22 foi empregado para aferição de temperatura e umidade. A plataforma Arduino IDE foi utilizada para a programação inicial do microcontrolador, enquanto o protocolo Wi-Fi permitiu a comunicação entre o dispositivo e a interface de monitoramento.*
 
 ### Etapas metodológicas
 
