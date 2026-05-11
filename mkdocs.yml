@@ -19,17 +19,26 @@ extra_css:
 nav:
   - Início: index.md
 
-  - Orientações Gerais:
-      - Apresentação do guia: orientacoes-gerais/apresentacao.md
-      - O que é um TCC: orientacoes-gerais/o-que-e-tcc.md
-      - Orientador e orientando: orientacoes-gerais/orientador-orientando.md
-      - Cronograma sugerido: orientacoes-gerais/cronograma.md
-      - Organização da rotina de trabalho: orientacoes-gerais/rotina.md
-      - Uso ético de fontes e ferramentas digitais: orientacoes-gerais/etica-fontes-ferramentas.md
-      - Escrita acadêmica: orientacoes-gerais/escrita-academica.md
-      - Construção de parágrafos: orientacoes-gerais/paragrafos.md
-      - Dicas de português: orientacoes-gerais/dicas-portugues.md
-      - Preparação para a defesa: orientacoes-gerais/defesa.md
+- Orientações Gerais:
+    - Visão inicial:
+        - Apresentação do guia: orientacoes-gerais/apresentacao.md
+        - O que é um TCC: orientacoes-gerais/o-que-e-tcc.md
+
+    - Relação de orientação:
+        - Orientador e orientando: orientacoes-gerais/orientador-orientando.md
+
+    - Planejamento do trabalho:
+        - Cronograma sugerido: orientacoes-gerais/cronograma.md
+        - Organização da rotina de trabalho: orientacoes-gerais/rotina.md
+
+    - Ética e escrita acadêmica:
+        - Uso ético de fontes e ferramentas digitais: orientacoes-gerais/etica-fontes-ferramentas.md
+        - Escrita acadêmica: orientacoes-gerais/escrita-academica.md
+        - Construção de parágrafos: orientacoes-gerais/paragrafos.md
+        - Dicas de português: orientacoes-gerais/dicas-portugues.md
+
+    - Finalização:
+        - Preparação para a defesa: orientacoes-gerais/defesa.md
 
   - Seções de um TCC:
       - Visão geral: secoes-tcc/visao-geral.md
