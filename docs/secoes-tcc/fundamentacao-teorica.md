@@ -117,7 +117,7 @@ Prefira uma escrita que mostre relação com a sua pesquisa.
 
 Exemplo:
 
-> Silva (2022) desenvolveu um sistema de monitoramento de temperatura baseado em sensores digitais e comunicação sem fio. O estudo demonstrou a viabilidade da coleta remota de dados, mas indicou limitações relacionadas à estabilidade da conexão em ambientes com obstáculos físicos. Essa limitação dialoga com a proposta deste trabalho, uma vez que a comunicação entre o dispositivo e a interface de monitoramento também constitui um aspecto relevante para a validação da prova de conceito.
+> *Silva (2022) desenvolveu um sistema de monitoramento de temperatura baseado em sensores digitais e comunicação sem fio. O estudo demonstrou a viabilidade da coleta remota de dados, mas indicou limitações relacionadas à estabilidade da conexão em ambientes com obstáculos físicos. Essa limitação dialoga com a proposta deste trabalho, uma vez que a comunicação entre o dispositivo e a interface de monitoramento também constitui um aspecto relevante para a validação da prova de conceito.*
 
 Nesse exemplo, o estudante não apenas contou o que o outro autor fez. Ele mostrou por que aquele trabalho importa para o TCC.
 
@@ -172,13 +172,13 @@ Antes de considerar a fundamentação teórica pronta, verifique se ela responde
 
 Evite escrever assim:
 
-> Arduino é uma plataforma de prototipagem eletrônica. O ESP32 tem Wi-Fi e Bluetooth. O sensor DHT22 mede temperatura e umidade.
+> *Arduino é uma plataforma de prototipagem eletrônica. O ESP32 tem Wi-Fi e Bluetooth. O sensor DHT22 mede temperatura e umidade.*
 
 Esse tipo de escrita apenas lista informações.
 
 Prefira escrever de forma articulada:
 
-> Plataformas de prototipagem eletrônica são frequentemente utilizadas no desenvolvimento de provas de conceito por permitirem a integração entre sensores, atuadores e sistemas de comunicação. Nesse contexto, o ESP32 apresenta-se como uma alternativa pertinente para projetos de monitoramento remoto, pois combina capacidade de processamento, conectividade sem fio e compatibilidade com diferentes sensores. Para a aferição de temperatura e umidade, sensores como o DHT22 podem ser empregados em aplicações experimentais, permitindo a coleta de dados ambientais em intervalos definidos.
+> *Plataformas de prototipagem eletrônica são frequentemente utilizadas no desenvolvimento de provas de conceito por permitirem a integração entre sensores, atuadores e sistemas de comunicação. Nesse contexto, o ESP32 apresenta-se como uma alternativa pertinente para projetos de monitoramento remoto, pois combina capacidade de processamento, conectividade sem fio e compatibilidade com diferentes sensores. Para a aferição de temperatura e umidade, sensores como o DHT22 podem ser empregados em aplicações experimentais, permitindo a coleta de dados ambientais em intervalos definidos.*
 
 ## Erros comuns
 
@@ -213,4 +213,4 @@ Ao final da fundamentação teórica, os autores podem incluir um parágrafo de 
 
 Exemplo:
 
-> A partir dos conceitos e trabalhos apresentados, observa-se que o monitoramento de variáveis ambientais por meio de sistemas embarcados constitui uma alternativa viável para aplicações experimentais e educacionais. Entretanto, as limitações relacionadas à estabilidade da comunicação, à calibração dos sensores e à validação em ambientes reais indicam que ainda há espaço para novas provas de conceito. Nesse sentido, a proposta desenvolvida neste trabalho buscou contribuir com essa discussão ao implementar e testar uma solução inicial voltada ao monitoramento de temperatura e umidade em ambiente controlado.
+> *A partir dos conceitos e trabalhos apresentados, observa-se que o monitoramento de variáveis ambientais por meio de sistemas embarcados constitui uma alternativa viável para aplicações experimentais e educacionais. Entretanto, as limitações relacionadas à estabilidade da comunicação, à calibração dos sensores e à validação em ambientes reais indicam que ainda há espaço para novas provas de conceito. Nesse sentido, a proposta desenvolvida neste trabalho buscou contribuir com essa discussão ao implementar e testar uma solução inicial voltada ao monitoramento de temperatura e umidade em ambiente controlado.*
