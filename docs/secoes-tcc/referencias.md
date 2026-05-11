@@ -4,13 +4,7 @@ As referências apresentam as fontes utilizadas no trabalho. Toda fonte citada n
 
 Essa seção não deve ser tratada apenas como uma formalidade. Ela demonstra o percurso de leitura dos autores, a qualidade das fontes consultadas e o cuidado com a autoria das ideias utilizadas.
 
-!!! warning "Atenção à norma exigida"
-
-    Antes de formatar citações e referências, o estudante deve verificar qual norma foi exigida pelo curso, orientador, evento, revista ou instituição.
-
-    Diferentes trabalhos podem exigir padrões diferentes, como ABNT, SBC, IEEE, normas institucionais ou modelos próprios de eventos acadêmicos.
-
-    Portanto, os exemplos apresentados neste guia têm função apenas didática. Eles não substituem o modelo oficial solicitado para o TCC.
+> **Atenção à norma exigida:** Antes de formatar citações e referências, o estudante deve verificar qual norma foi exigida pelo curso, orientador, evento, revista ou instituição. Os exemplos apresentados neste guia têm função apenas didática. Eles não substituem o modelo oficial solicitado para o TCC.
 
 O estudante não deve escolher livremente o padrão de citação. Ele deve seguir o padrão exigido pelo curso, orientador, evento, revista ou instituição.
 
