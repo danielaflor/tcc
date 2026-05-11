@@ -1,12 +1,12 @@
 # Guia de Apoio ao TCC
 
-Este guia foi elaborado para apoiar estudantes na organização, escrita, revisão e defesa do Trabalho de Conclusão de Curso.
+Este guia foi organizado por Daniela Flôr, professora do IFPR Campus Paranavaí, como material de apoio à elaboração de Trabalhos de Conclusão de Curso.
 
 O material foi pensado para ajudar o estudante a compreender o TCC como um processo formativo, e não apenas como um documento a ser entregue ao final do curso. Por isso, reúne orientações sobre planejamento, papel do orientador e do orientando, cronograma, ética acadêmica, escrita científica, revisão textual e preparação para a defesa.
 
 ## Como este guia está organizado
 
-O guia será organizado da seguinte forma:
+O guia está organizado da seguinte forma:
 
 ### Orientações Gerais
 
@@ -26,7 +26,7 @@ Se você está iniciando o TCC, comece pelas orientações gerais. Elas ajudam a
 
 ## SOBRE A ELABORAÇÃO DESTE GUIA
 
-Este guia foi construído a partir da experiência docente acumulada em orientação, correção e acompanhamento de Trabalhos de Conclusão de Curso.
+Este guia foi construído a partir da experiência docente acumulada em orientação, correção, banca e acompanhamento de Trabalhos de Conclusão de Curso.
 
 A estrutura das orientações metodológicas foi inspirada, entre outras referências, nas contribuições do Prof. Raul Sidnei Wazlawick, especialmente na obra *Metodologia de Pesquisa para Ciência da Computação*. Esse livro apresenta discussões mais completas sobre a organização de trabalhos científicos na área de Computação, incluindo a formulação do problema de pesquisa, a construção dos objetivos, a organização da fundamentação teórica, a definição metodológica, a análise dos resultados e a articulação das conclusões.
 
