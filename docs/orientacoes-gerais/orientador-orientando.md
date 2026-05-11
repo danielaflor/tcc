@@ -59,5 +59,4 @@ Antes de cada reunião, o estudante deve organizar:
 - quais materiais serão apresentados ao orientador;
 - qual é o próximo passo do trabalho.
 
-!!! quote "Síntese"
-    O orientador orienta o percurso, mas quem caminha é o estudante.
+> **Atenção:** O orientador orienta o percurso, mas quem caminha é o estudante.
