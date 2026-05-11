@@ -39,3 +39,5 @@ Neste guia, essas referências foram adaptadas para uma linguagem mais direta e 
 A redação e a organização inicial de parte do material também contaram com apoio de ferramenta de inteligência artificial generativa, utilizada como instrumento auxiliar de sistematização textual. As sugestões geradas foram revisadas, reorganizadas e adaptadas criticamente, considerando a experiência docente, os modelos institucionais e as necessidades reais dos estudantes.
 
 Assim, este guia reúne experiência prática de orientação, fundamentos de metodologia de pesquisa, referências sobre escrita e apoio tecnológico para organização didática do conteúdo. Ele deve ser utilizado como material de apoio, sem substituir as orientações do professor orientador, as normas do curso ou os modelos oficiais exigidos.
+
+> **Observação:** *Este guia é um material em constante revisão. Seu conteúdo poderá ser atualizado conforme novas demandas de orientação, alterações nos modelos institucionais e necessidades identificadas durante o desenvolvimento dos TCCs.*
