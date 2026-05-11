@@ -33,11 +33,11 @@ Não basta afirmar que o sistema funcionou, que o protótipo foi desenvolvido ou
 
 Exemplo de resultado:
 
-> O protótipo realizou a leitura de temperatura e umidade em intervalos de cinco segundos, apresentando os dados na interface serial durante os testes em ambiente controlado.
+> *O protótipo realizou a leitura de temperatura e umidade em intervalos de cinco segundos, apresentando os dados na interface serial durante os testes em ambiente controlado.*
 
 Exemplo de discussão:
 
-> Esse resultado indica que a integração entre sensor e microcontrolador foi funcional para a proposta inicial do trabalho. No entanto, como os testes ocorreram em ambiente controlado, ainda não é possível afirmar que o protótipo manteria o mesmo desempenho em condições reais de uso, especialmente em locais com interferência, variação térmica intensa ou instabilidade na alimentação elétrica.
+> *Esse resultado indica que a integração entre sensor e microcontrolador foi funcional para a proposta inicial do trabalho. No entanto, como os testes ocorreram em ambiente controlado, ainda não é possível afirmar que o protótipo manteria o mesmo desempenho em condições reais de uso, especialmente em locais com interferência, variação térmica intensa ou instabilidade na alimentação elétrica.*
 
 No primeiro trecho, o estudante apresentou o que aconteceu. No segundo, interpretou o alcance e os limites do resultado.
 
@@ -134,13 +134,13 @@ Antes de apresentar o elemento visual, o estudante deve contextualizar o que ser
 
 Depois, deve explicar o que o leitor deve observar.
 
-Exemplo inadequado:
+Exemplo insuficiente:
 
-> A Figura 1 mostra o sistema.
+> *A Figura 1 mostra o sistema.*
 
 Exemplo melhor:
 
-> A Figura 1 apresenta a tela inicial do sistema desenvolvido, na qual o usuário pode acessar as funcionalidades de cadastro, consulta e geração de relatórios. Essa organização buscou facilitar a navegação inicial e concentrar as principais ações em um único ponto de acesso.
+> *A Figura 1 apresenta a tela inicial do sistema desenvolvido, na qual o usuário pode acessar as funcionalidades de cadastro, consulta e geração de relatórios. Essa organização buscou facilitar a navegação inicial e concentrar as principais ações em um único ponto de acesso.*
 
 Após a figura, tabela ou gráfico, o texto deve interpretar o que foi apresentado.
 
@@ -183,7 +183,7 @@ Uma boa discussão pode comparar o que se esperava alcançar com o que foi efeti
 
 Exemplo:
 
-> Esperava-se que o protótipo realizasse a leitura contínua de temperatura e umidade e transmitisse os dados para uma interface de monitoramento. Nos testes realizados, a leitura dos dados ocorreu de forma satisfatória, porém a transmissão sem fio apresentou instabilidade em determinados momentos. Esse resultado indica que a etapa de sensoriamento foi validada, enquanto a comunicação ainda demanda aprimoramentos.
+> *Esperava-se que o protótipo realizasse a leitura contínua de temperatura e umidade e transmitisse os dados para uma interface de monitoramento. Nos testes realizados, a leitura dos dados ocorreu de forma satisfatória, porém a transmissão sem fio apresentou instabilidade em determinados momentos. Esse resultado indica que a etapa de sensoriamento foi validada, enquanto a comunicação ainda demanda aprimoramentos.*
 
 Esse tipo de análise mostra que o estudante compreendeu o alcance real do trabalho.
 
@@ -201,7 +201,7 @@ Isso pode ocorrer quando os resultados:
 
 Exemplo:
 
-> Os resultados obtidos reforçam a importância da etapa de testes em sistemas embarcados, uma vez que a integração entre componentes pode apresentar limitações não observadas apenas na fase de planejamento. Essa constatação dialoga com os estudos apresentados na fundamentação teórica, nos quais a validação experimental é apontada como etapa essencial para verificar a viabilidade de uma solução tecnológica.
+> *Os resultados obtidos reforçam a importância da etapa de testes em sistemas embarcados, uma vez que a integração entre componentes pode apresentar limitações não observadas apenas na fase de planejamento. Essa constatação dialoga com os estudos apresentados na fundamentação teórica, nos quais a validação experimental é apontada como etapa essencial para verificar a viabilidade de uma solução tecnológica.*
 
 ## Implicações dos achados
 
@@ -220,7 +220,7 @@ Os achados podem ter implicações:
 
 Exemplo:
 
-> A possibilidade de monitorar variáveis ambientais por meio de uma solução de baixo custo indica que tecnologias embarcadas podem ser exploradas em contextos educacionais e experimentais. Embora a proposta ainda não esteja pronta para aplicação em larga escala, os resultados mostram potencial para continuidade e aprimoramento em trabalhos futuros.
+> *A possibilidade de monitorar variáveis ambientais por meio de uma solução de baixo custo indica que tecnologias embarcadas podem ser exploradas em contextos educacionais e experimentais. Embora a proposta ainda não esteja pronta para aplicação em larga escala, os resultados mostram potencial para continuidade e aprimoramento em trabalhos futuros.*
 
 ## Perguntas de verificação
 
@@ -293,21 +293,21 @@ Antes de considerar essa seção pronta, verifique se o texto responde:
 
 Evite escrever apenas:
 
-> O sistema foi desenvolvido com sucesso.
+> *O sistema foi desenvolvido com sucesso.*
 
 Essa frase é vaga. É necessário explicar o que foi desenvolvido, quais funcionalidades foram implementadas, como foram testadas e quais limitações foram observadas.
 
 Prefira:
 
-> O sistema desenvolvido permitiu o cadastro, a consulta e a edição de registros, conforme previsto nos requisitos iniciais. Os testes funcionais indicaram que as principais operações foram executadas corretamente em ambiente local. No entanto, a funcionalidade de geração automática de relatórios apresentou limitações, exigindo ajustes futuros para adequação ao formato previsto.
+> *O sistema desenvolvido permitiu o cadastro, a consulta e a edição de registros, conforme previsto nos requisitos iniciais. Os testes funcionais indicaram que as principais operações foram executadas corretamente em ambiente local. No entanto, a funcionalidade de geração automática de relatórios apresentou limitações, exigindo ajustes futuros para adequação ao formato previsto.*
 
 Evite também escrever:
 
-> O protótipo funcionou.
+> *O protótipo funcionou.*
 
 Prefira:
 
-> O protótipo realizou a leitura dos dados de temperatura e umidade em ambiente controlado. Durante os testes, observou-se estabilidade na leitura dos sensores, mas a comunicação sem fio apresentou oscilações. Esse resultado indica que a etapa de sensoriamento foi validada, enquanto a transmissão dos dados ainda demanda aprimoramento.
+> *O protótipo realizou a leitura dos dados de temperatura e umidade em ambiente controlado. Durante os testes, observou-se estabilidade na leitura dos sensores, mas a comunicação sem fio apresentou oscilações. Esse resultado indica que a etapa de sensoriamento foi validada, enquanto a transmissão dos dados ainda demanda aprimoramento.*
 
 ## Erros comuns
 
@@ -347,4 +347,4 @@ Esse parágrafo não deve repetir todos os resultados. Ele deve destacar o que o
 
 Exemplo:
 
-> De modo geral, os resultados demonstraram que a prova de conceito desenvolvida foi capaz de realizar as funções principais previstas para o monitoramento em ambiente controlado. A leitura dos dados apresentou desempenho satisfatório, enquanto a comunicação sem fio indicou necessidade de aprimoramentos. Esses achados mostram que a proposta possui viabilidade inicial, mas ainda demanda novos testes e ajustes para aplicação em cenários reais.
+> *De modo geral, os resultados demonstraram que a prova de conceito desenvolvida foi capaz de realizar as funções principais previstas para o monitoramento em ambiente controlado. A leitura dos dados apresentou desempenho satisfatório, enquanto a comunicação sem fio indicou necessidade de aprimoramentos. Esses achados mostram que a proposta possui viabilidade inicial, mas ainda demanda novos testes e ajustes para aplicação em cenários reais.*
