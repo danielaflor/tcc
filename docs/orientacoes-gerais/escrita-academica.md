@@ -60,5 +60,4 @@ Durante a revisão, procure:
 - Revise primeiro o conteúdo e depois a gramática.
 - Não dependa apenas do corretor automático.
 
-!!! tip "Pergunta de revisão"
-    Depois de escrever uma seção, pergunte: uma pessoa que não participou do meu projeto conseguiria entender o que foi feito e por que isso foi feito?
+> **Atenção:** Depois de escrever uma seção, pergunte: uma pessoa que não participou do meu projeto conseguiria entender o que foi feito e por que isso foi feito?
