@@ -46,11 +46,11 @@ Os exemplos abaixo são apenas ilustrativos. O formato final deve ser ajustado �
 
 Exemplo em formato autor-data:
 
-> Segundo Silva (2022), sistemas embarcados podem ser utilizados em aplicações de monitoramento ambiental.
+> *Segundo Silva (2022), sistemas embarcados podem ser utilizados em aplicações de monitoramento ambiental.*
 
 Exemplo em formato numérico:
 
-> Sistemas embarcados podem ser utilizados em aplicações de monitoramento ambiental [1].
+> *Sistemas embarcados podem ser utilizados em aplicações de monitoramento ambiental [1].*
 
 Nos dois casos, a fonte completa deve aparecer na seção de referências, conforme o padrão exigido.
 
