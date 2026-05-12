@@ -4,19 +4,16 @@ Este guia foi organizado por Daniela Flôr, professora do IFPR Campus Paranavaí
 
 ## Como este guia está organizado
 
-O guia está organizado da seguinte forma:
-
-### Orientações Gerais
-
+### Orientações Gerais: 
 Reúne informações sobre o processo de desenvolvimento do TCC, incluindo responsabilidades do orientador e do orientando, organização da rotina de trabalho, cronograma, uso ético de fontes e ferramentas digitais, escrita acadêmica, construção de parágrafos, cuidados de português e preparação para defesa.
 
 ### Seções do TCC
 
-Apresentará a função de cada parte do trabalho, explicando o que deve aparecer no título, resumo, introdução, objetivos, fundamentação teórica, metodologia, resultados, considerações finais, referências, apêndices e anexos.
+Apresentação da função de cada parte do trabalho, explicando o que deve aparecer no título, resumo, introdução, objetivos, fundamentação teórica, metodologia, resultados, considerações finais, referências, apêndices e anexos.
 
-<!--### Modelos e Roteiros-->
+### Esquemas e exemplos
 
-<!--Disponibilizará fichas, checklists e roteiros para diferentes tipos de TCC, como desenvolvimento de software, pesquisa com prova de conceito envolvendo protótipos embarcados/IoT e pesquisa com prova de conceito envolvendo simulação ou computação aplicada.-->
+Reúne materiais de consulta rápida, como mapas mentais, quadros-resumo e roteiros de autoavaliação, além de exemplos de TCCs considerados boas referências de escrita, organização, rigor técnico e articulação entre problema, objetivos, metodologia, resultados e considerações finais. Esses materiais servem como apoio para revisão e inspiração, sem substituir as orientações completas do guia, as normas do curso ou o acompanhamento do orientador.
 
 ## Por onde começar?
 
