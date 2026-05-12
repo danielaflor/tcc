@@ -55,10 +55,10 @@ nav:
           - Metodologia ou Materiais e métodos: secoes-tcc/metodologia.md
           - Resultados e discussões: secoes-tcc/resultados-discussoes.md
 
-  - ESQUEMAS E EXEMPLOS:
-      - Visão geral: esquemas-exemplos/visao-geral.md
-
       - Fechamento:
           - Considerações Finais: secoes-tcc/consideracoes-finais.md
           - Referências bibliográficas: secoes-tcc/referencias.md
           - Anexos e Apêndices: secoes-tcc/apendices-anexos.md
+          
+  - ESQUEMAS E EXEMPLOS:
+      - Visão geral: esquemas-exemplos/visao-geral.md
