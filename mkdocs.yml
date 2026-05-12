@@ -23,7 +23,7 @@ nav:
   - Início: index.md
 
   - ORIENTAÇÕES GERAIS:
-      - Visão inicial:
+      - Conhecendo o material:
           - Apresentação do guia: orientacoes-gerais/apresentacao.md
           - O que é um TCC: orientacoes-gerais/o-que-e-tcc.md
 
@@ -61,4 +61,4 @@ nav:
           - Anexos e Apêndices: secoes-tcc/apendices-anexos.md
           
   - ESQUEMAS E EXEMPLOS:
-      - Visão geral: esquemas-exemplos/visao-geral.md
+      - Consulta rápida: esquemas-exemplos/visao-geral.md
