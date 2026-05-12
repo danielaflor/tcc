@@ -10,7 +10,7 @@ Enquanto as demais páginas do guia apresentam explicações mais completas, os 
 
 | Material | Descrição | Arquivo |
 |---|---|---|
-| Mapa mental do TCC | Apresenta uma visão geral da estrutura do TCC e da função de suas principais seções. | [Acessar PDF](../materiais/mapa-mental-tcc.pdf) |
+| Mapa mental do TCC | Apresenta uma visão geral da estrutura do TCC e da função de suas principais seções. | [Acessar PDF](../materiais/MapaMental-Estrutura.pdf) |
 | Quadro resumo das seções | Sintetiza a função de cada seção do TCC e ajuda o estudante a revisar se o texto responde às perguntas essenciais. | [Acessar PDF](../materiais/quadro-resumo-secoes.pdf) |
 | Roteiro de autoavaliação | Reúne perguntas orientadoras para revisar o trabalho antes do envio ao orientador ou da entrega final. | [Acessar PDF](../materiais/roteiro-autoavaliacao.pdf) |
 | Roteiro de correção comentada | Apresenta critérios e perguntas que podem apoiar a revisão crítica de trabalhos científicos e TCCs. | [Acessar PDF](../materiais/roteiro-correcao-comentada.pdf) |
