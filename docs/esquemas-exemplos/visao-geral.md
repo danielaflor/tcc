@@ -14,6 +14,7 @@ Enquanto as demais páginas do guia apresentam explicações mais completas, os 
 | Quadro resumo das seções | Sintetiza a função de cada seção do TCC com dicas e erros comuns. | [Acessar PDF](../materiais/quadrosecoes.pdf) |
 | Roteiro para verificação | Apresenta a articulação entre as seções que pode apoiar a revisão crítica de TCCs. | [Acessar PDF](../materiais/correcao-comentada.pdf) |
 
+<!--
 ## Exemplos de referência
 
 | Trabalho | Curso/Área | Por que é um bom exemplo? | Arquivo |
@@ -26,4 +27,4 @@ Enquanto as demais páginas do guia apresentam explicações mais completas, os 
 
 Os trabalhos disponibilizados nesta seção foram incluídos apenas quando houve autorização para uso como material de referência. A consulta aos exemplos deve respeitar a autoria dos estudantes e orientadores.
 
-Copiar trechos, imagens, estruturas, códigos, figuras ou resultados sem citação adequada caracteriza uso indevido do material.
+Copiar trechos, imagens, estruturas, códigos, figuras ou resultados sem citação adequada caracteriza uso indevido do material.-->
