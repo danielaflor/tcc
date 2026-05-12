@@ -1,4 +1,4 @@
-# Guia de Apoio ao TCC
+# Guia de Apoio para Elaboração do TCC
 
 Este guia foi organizado por Daniela Flôr, professora do IFPR Campus Paranavaí, como material de apoio à elaboração de Trabalhos de Conclusão de Curso. O material foi pensado para ajudar o estudante a compreender o TCC como um processo formativo, e não apenas como um documento a ser entregue ao final do curso. Ao longo do guia, são reunidas orientações sobre planejamento, relação entre orientador e orientando, cronograma, ética acadêmica, escrita científica, revisão textual e preparação para a defesa, além de explicações sobre a função de cada seção que compõe um trabalho completo. Também são disponibilizados esquemas de consulta rápida e exemplos de referência.
 
