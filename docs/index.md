@@ -4,7 +4,7 @@ Este guia foi organizado por Daniela Flôr, professora do IFPR Campus Paranavaí
 
 ## Como este guia está organizado
 
-**Orientações Gerais:** Reúne informações sobre o processo de desenvolvimento do TCC, incluindo responsabilidades do orientador e do orientando, organização da rotina de trabalho, cronograma, uso ético de fontes e ferramentas digitais, escrita acadêmica, construção de parágrafos, cuidados de português e preparação para defesa.
+**Orientações Gerais:** Engloba informações sobre o processo de desenvolvimento do TCC, incluindo responsabilidades do orientador e do orientando, organização da rotina de trabalho, cronograma, uso ético de fontes e ferramentas digitais, escrita acadêmica, construção de parágrafos, cuidados de português e preparação para defesa.
 
 **Seções do TCC:** Apresentação da função de cada parte do trabalho, explicando o que deve aparecer no título, resumo, introdução, objetivos, fundamentação teórica, metodologia, resultados, considerações finais, referências, apêndices e anexos.
 
