@@ -15,6 +15,8 @@ Este guia foi organizado por Daniela Flôr, professora do IFPR Campus Paranavaí
 
 Se você está iniciando o TCC, comece pelas orientações gerais. Elas ajudam a entender o que é esperado de você, como organizar sua rotina e como se preparar para desenvolver o trabalho com autonomia. Em seguida, avance para as seções específicas do TCC e utilize as orientações para planejar, escrever e revisar seu trabalho.
 
+Se você já tem uma versão do TCC pronta ou está em fase de revisão, consulte a seção **Esquemas e exemplos**. Os materiais de consulta rápida podem ajudar a verificar se o texto apresenta coerência entre problema, objetivos, metodologia, resultados, discussões, considerações finais e referências antes do envio ao orientador ou da entrega final.
+
 ## SOBRE A ELABORAÇÃO DESTE GUIA
 
 Este guia foi construído a partir da experiência docente acumulada em orientação, correção, banca e acompanhamento de Trabalhos de Conclusão de Curso.
