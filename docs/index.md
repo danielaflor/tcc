@@ -4,16 +4,11 @@ Este guia foi organizado por Daniela Flôr, professora do IFPR Campus Paranavaí
 
 ## Como este guia está organizado
 
-### Orientações Gerais: 
-Reúne informações sobre o processo de desenvolvimento do TCC, incluindo responsabilidades do orientador e do orientando, organização da rotina de trabalho, cronograma, uso ético de fontes e ferramentas digitais, escrita acadêmica, construção de parágrafos, cuidados de português e preparação para defesa.
+**Orientações Gerais:** Reúne informações sobre o processo de desenvolvimento do TCC, incluindo responsabilidades do orientador e do orientando, organização da rotina de trabalho, cronograma, uso ético de fontes e ferramentas digitais, escrita acadêmica, construção de parágrafos, cuidados de português e preparação para defesa.
 
-### Seções do TCC
+**Seções do TCC:** Apresentação da função de cada parte do trabalho, explicando o que deve aparecer no título, resumo, introdução, objetivos, fundamentação teórica, metodologia, resultados, considerações finais, referências, apêndices e anexos.
 
-Apresentação da função de cada parte do trabalho, explicando o que deve aparecer no título, resumo, introdução, objetivos, fundamentação teórica, metodologia, resultados, considerações finais, referências, apêndices e anexos.
-
-### Esquemas e exemplos
-
-Reúne materiais de consulta rápida, como mapas mentais, quadros-resumo e roteiros de autoavaliação, além de exemplos de TCCs considerados boas referências de escrita, organização, rigor técnico e articulação entre problema, objetivos, metodologia, resultados e considerações finais. Esses materiais servem como apoio para revisão e inspiração, sem substituir as orientações completas do guia, as normas do curso ou o acompanhamento do orientador.
+**Esquemas e exemplos:** Reúne materiais de consulta rápida, como mapas mentais, quadros-resumo e roteiros de autoavaliação, além de exemplos de TCCs considerados boas referências de escrita, organização, rigor técnico e articulação entre problema, objetivos, metodologia, resultados e considerações finais. Esses materiais servem como apoio para revisão e inspiração, sem substituir as orientações completas do guia, as normas do curso ou o acompanhamento do orientador.
 
 ## Por onde começar?
 
